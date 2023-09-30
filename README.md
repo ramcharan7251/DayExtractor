@@ -60,7 +60,7 @@ The "DayExtractor" program serves the following purposes and can be useful for v
 
 6. **Integration in Other Projects:** Developers can integrate the day calculation functionality of this program into their own projects, such as calendar applications or date-related utilities.
 
-7. **Exploring Algorithm Logic:** Programmers and enthusiasts interested in algorithms can examine the implementation of Zeller's Congruence and gain insights into how date calculations work.
+7. **Exploring Algorithm Logic:** Programmers and enthusiasts interested in algorithms can examine the implementation of this logic and gain insights into how date calculations work.
 
 These are some of the key uses of the "DayExtractor" program. It provides a simple yet effective way to determine the day of the week for any given date, making it versatile and valuable for a wide range of applications.
 

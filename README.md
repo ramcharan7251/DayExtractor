@@ -13,7 +13,7 @@ This is a C program that calculates the day of the week for a given date in the 
    ./date_to_day
  **2.Input Format:** Enter the date in the format "dd/mm/yyyy" when prompted.
 
-  **3.Output:** The program will output the day of the week for the entered date.
+ **3.Output:** The program will output the day of the week for the entered date.
 ### Algorithm Explanation
 The program follows these steps to calculate the day of the week:
 

@@ -32,7 +32,8 @@ The program follows these steps to calculate the day of the week:
 #### Author
 **Author:** Parvatham Ram Charan
 
-**GitHub:** ramcharan7251
+**GitHub:** [ramcharan7251](https://github.com/ramcharan7251)
+
 
 ##### Example
 Here's an example of how to use the program:

@@ -44,6 +44,27 @@ Here's an example of how to use the program:
 enter the date in format(dd/mm/yyyy): 15/09/2023
 15/09/2023 is Thursday
 
+### Uses
+
+The "DayExtractor" program serves the following purposes and can be useful for various scenarios:
+
+1. **Calculate Day of the Week:** The primary function of this program is to calculate and display the day of the week for a given date in the "dd/mm/yyyy" format. Users can input a date, and the program will provide the corresponding day of the week.
+
+2. **Historical Research:** Historians, researchers, or anyone interested in historical events can use this program to determine the day of the week for specific dates in history. This can aid in understanding historical contexts and timelines.
+
+3. **Planning and Scheduling:** Individuals and organizations can utilize this program for scheduling and planning activities or events on specific days of the week. For example, it can be helpful when setting up recurring meetings or events.
+
+4. **Educational Purposes:** Students and educators can use this program to learn about date calculations and algorithms, such as Zeller's Congruence, which is used in this program.
+
+5. **Calendar Conversion:** The program can assist in converting dates between different calendar systems or formats, especially when working with international date formats.
+
+6. **Integration in Other Projects:** Developers can integrate the day calculation functionality of this program into their own projects, such as calendar applications or date-related utilities.
+
+7. **Exploring Algorithm Logic:** Programmers and enthusiasts interested in algorithms can examine the implementation of Zeller's Congruence and gain insights into how date calculations work.
+
+These are some of the key uses of the "DayExtractor" program. It provides a simple yet effective way to determine the day of the week for any given date, making it versatile and valuable for a wide range of applications.
+
+
 ## LIMITATIONS
 
 While the "DayExtractor" program effectively calculates the day of the week for most dates, it's important to be aware of its limitations:

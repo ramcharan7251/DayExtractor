@@ -42,6 +42,7 @@ The program follows these steps to calculate the day of the week:
 Here's an example of how to use the program:
 
 enter the date in format(dd/mm/yyyy): 15/09/2023
+
 15/09/2023 is Thursday
 
 ## Uses
@@ -71,7 +72,7 @@ While the "DayExtractor" program effectively calculates the day of the week for 
 
 1. **Gregorian Calendar Only:** This program is designed to work with dates in the Gregorian calendar, which is the calendar system widely used today. It may not produce accurate results for dates outside the Gregorian calendar.
 
-2. **Range of Supported Years:** The program is optimized for dates within a reasonable range, typically from the early 18th century to the late 21st century. Dates significantly outside this range may not yield correct results.
+2. **Range of Supported Years:** The program is optimized for dates within  range, Dates significantly outside t range may not yield correct results.
 
 3. **Input Validation:** The program assumes valid input in the "dd/mm/yyyy" format. It does not include extensive input validation checks, so incorrect or invalid date formats may lead to unexpected behavior.
 

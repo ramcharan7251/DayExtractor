@@ -6,11 +6,11 @@ This is a C program that calculates the day of the week for a given date in the 
 
 **GitHub:** [ramcharan7251](https://github.com/ramcharan7251)
 
-### ### License
+##### License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
 
-#### How to Use
+## How to Use
 
 1. **Compile the Program**: You can compile the program using a C compiler. For example, if you're using GCC, you can compile it as follows:
 
@@ -23,7 +23,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 **4.Output:** The program will output the day of the week for the entered date.
 
-##### Algorithm Explanation
+## Algorithm Explanation
 The program follows these steps to calculate the day of the week:
 
 **1.Input Parsing:** It first parses the input date into day, month, and year components.
@@ -38,13 +38,13 @@ The program follows these steps to calculate the day of the week:
 
 **6.Output:** The program maps the result to the corresponding day of the week and displays it.
 
-##### Example
+## Example
 Here's an example of how to use the program:
 
 enter the date in format(dd/mm/yyyy): 15/09/2023
 15/09/2023 is Thursday
 
-###### LIMITATIONS
+## LIMITATIONS
 
 While the "DayExtractor" program effectively calculates the day of the week for most dates, it's important to be aware of its limitations:
 
@@ -63,7 +63,7 @@ While the "DayExtractor" program effectively calculates the day of the week for 
 7. **Edge Cases:** While the program handles most common cases accurately, edge cases, such as historical calendar reforms or rare date scenarios, may not produce expected results.
 
 Please keep these limitations in mind when using the program, and ensure that your use case falls within its supported scope.
-###### CONTRIBUTING
+## CONTRIBUTING
 Feel free to use, modify, and distribute this program as needed. If you have any questions or suggestions for improvement, please don't hesitate to contact the author.
 
 

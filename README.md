@@ -6,8 +6,11 @@ This is a C program that calculates the day of the week for a given date in the 
 
 **GitHub:** [ramcharan7251](https://github.com/ramcharan7251)
 
+### ### License
 
-### How to Use
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
+
+#### How to Use
 
 1. **Compile the Program**: You can compile the program using a C compiler. For example, if you're using GCC, you can compile it as follows:
 
@@ -20,7 +23,7 @@ This is a C program that calculates the day of the week for a given date in the 
 
 **4.Output:** The program will output the day of the week for the entered date.
 
-#### Algorithm Explanation
+##### Algorithm Explanation
 The program follows these steps to calculate the day of the week:
 
 **1.Input Parsing:** It first parses the input date into day, month, and year components.

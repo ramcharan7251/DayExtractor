@@ -1,7 +1,7 @@
 # DayExtractor
 # Date-to-Day Calculator
 
-This is a C program that calculates the day of the week for a given date in the format "dd/mm/yyyy". It uses a modified version of Zeller's Congruence algorithm.
+This is a C program that calculates the day of the week for a given date in the format "dd/mm/yyyy". 
 
 ## How to Use
 

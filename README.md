@@ -44,7 +44,7 @@ Here's an example of how to use the program:
 enter the date in format(dd/mm/yyyy): 15/09/2023
 15/09/2023 is Thursday
 
-### Uses
+## Uses
 
 The "DayExtractor" program serves the following purposes and can be useful for various scenarios:
 

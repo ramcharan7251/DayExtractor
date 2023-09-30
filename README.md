@@ -1,8 +1,13 @@
 # Date-to-Day Calculator
 
 This is a C program that calculates the day of the week for a given date in the format "dd/mm/yyyy". 
+## Author
+**Author:** Parvatham Ram Charan
 
-## How to Use
+**GitHub:** [ramcharan7251](https://github.com/ramcharan7251)
+
+
+### How to Use
 
 1. **Compile the Program**: You can compile the program using a C compiler. For example, if you're using GCC, you can compile it as follows:
 
@@ -14,7 +19,7 @@ This is a C program that calculates the day of the week for a given date in the 
 **3.Input Format:** Enter the date in the format "dd/mm/yyyy" when prompted.
 
 **4.Output:** The program will output the day of the week for the entered date.
-### Algorithm Explanation
+#### Algorithm Explanation
 The program follows these steps to calculate the day of the week:
 
 **1.Input Parsing:** It first parses the input date into day, month, and year components.
@@ -28,12 +33,6 @@ The program follows these steps to calculate the day of the week:
 **5.Result Calculation:** Combines the odd days from the above steps to calculate the final result.
 
 **6.Output:** The program maps the result to the corresponding day of the week and displays it.
-
-#### Author
-**Author:** Parvatham Ram Charan
-
-**GitHub:** [ramcharan7251](https://github.com/ramcharan7251)
-
 
 ##### Example
 Here's an example of how to use the program:

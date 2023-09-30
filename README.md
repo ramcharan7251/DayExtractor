@@ -6,7 +6,7 @@ This is a C program that calculates the day of the week for a given date in the 
 
 **GitHub:** [ramcharan7251](https://github.com/ramcharan7251)
 
-##### License
+## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
 

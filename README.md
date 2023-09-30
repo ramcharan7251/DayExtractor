@@ -18,20 +18,20 @@ This is a C program that calculates the day of the week for a given date in the 
 ### Algorithm Explanation
 The program follows these steps to calculate the day of the week:
 
-1.Input Parsing: It first parses the input date into day, month, and year components.
+**1.Input Parsing:** It first parses the input date into day, month, and year components.
 
-2.Year Code Odd Days Calculation: Calculates the odd days based on the year, considering different ranges of years (every 100 years, 200 years, etc.).
+**2.Year Code Odd Days Calculation:** Calculates the odd days based on the year, considering different ranges of years (every 100 years, 200 years, etc.).
 
-3.Date Code Odd Days Calculation: Calculates the odd days based on the day of the month.
+**3.Date Code Odd Days Calculation:** Calculates the odd days based on the day of the month.
 
-4.Month Code Odd Days Calculation: Calculates the odd days based on the month, considering leap years.
+**4.Month Code Odd Days Calculation:** Calculates the odd days based on the month, considering leap years.
 
-5.Result Calculation: Combines the odd days from the above steps to calculate the final result.
+**5.Result Calculation:** Combines the odd days from the above steps to calculate the final result.
 
-6.Output: The program maps the result to the corresponding day of the week and displays it.
+**6.Output:** The program maps the result to the corresponding day of the week and displays it.
 #### Author
-Author: Parvatham Ram Charan
-GitHub: ramcharan7251
+**Author**: Parvatham Ram Charan
+**GitHub:** ramcharan7251
 ##### Example
 Here's an example of how to use the program:
 

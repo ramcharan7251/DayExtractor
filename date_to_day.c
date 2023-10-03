@@ -10,7 +10,12 @@ int main()
     char deliminator;
     printf("enter the date in format(dd/mm/yyyy):");
     scanf("%d%c%d%c%d",&date,&deliminator,&month,&deliminator,&year);
-    
+    if(date <=0 || date >= 32 || month <=0 || month >=13 )
+	{
+		printf("\nInvalid date or month");
+	}
+	else
+	{
     // 1. year code odd days calculation
     /*
         for every 100 years=> 76*1 +24*2 ==>124=> 5 odd days
@@ -18,6 +23,8 @@ int main()
         for every 300 years=>100+100+100=>15 odd=>1 odd days
         for every 400 years=>300(yrs)+75*1+25*2=>1+125=>1+6=>0 odd days 
     */
+ 
+	
     int yearCode,yearOddDays,leap,nonLeap,leapNo;
     year--;
     yearCode=year%400;
@@ -111,7 +118,7 @@ int main()
     //extracting the date
     switch(result)
     {
-        case 0 : printf("\n%.2d/.2%d/.4%d is sunday",date,month,year); break;
+        case 0 : printf("\n%.2d/%.2d/%.4d is sunday",date,month,year); break;
         case 1 : printf("\n%.2d/%.2d/%.4d is monday",date,month,year); break;
         case 2 : printf("\n%.2d/%.2d/%.4d is teusday",date,month,year); break;
         case 3 : printf("\n%.2d/%.2d/%.4d is wednesday",date,month,year); break;
@@ -119,5 +126,6 @@ int main()
         case 5 : printf("\n%.2d/%.2d/%.4d is friday",date,month,year); break;
         case 6 : printf("\n%.2d/%.2d/%.4d is saturday",date,month,year); break;
     }
+   }
     return 0;
 }
